@@ -23,12 +23,11 @@ ul {
     text-decoration: none;
   }
   
-  /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #111;
   }
   footer {
-    background-color: #777;
+    background-color:gray;
     padding: 10px;
     text-align: right;
     color: white;
@@ -38,7 +37,7 @@ ul {
   }
   
   .column {
-    flex: 25%
+    flex: 50%
     padding: 10px;
 }
 
